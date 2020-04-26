@@ -1,0 +1,5 @@
+*.exe
+!debug.exe
+!link.exe
+!masm.exe
+*.obj
